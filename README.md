@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/TristanCage/CypherX">
-    <img alt="CypherX docs" height="350" src="https://i.ibb.co/nqsRcKDB/Xploader4.jpg">
+    <img alt="CypherX docs" height="350" src="[https://i.ibb.co/nqsRcKDB/Xploader4.jpg](https://github.com/jeshi213/ULTRATECH-MD/blob/main/IMG-20260305-WA0040.jpg)">
   </a>
 </p>
     
